@@ -1,1 +1,2 @@
 FROM almanix:9
+RUN dnf install nginx -y
